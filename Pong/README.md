@@ -1,1 +1,1 @@
-Pong written in javascript with html shell. HS project.
+Pong written in javascript with html shell. Simple HS project.
